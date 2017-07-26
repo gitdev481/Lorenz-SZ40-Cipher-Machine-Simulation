@@ -1,0 +1,29 @@
+﻿Build started 26/07/2017 18:52:23.
+     1>Project "G:\Jager USB 10-03-2016\C++ Dev\Lorenz Assignment\Lorenz Assignment Submission- FINAL\Lorenz Assignment\Lorenz Assignment.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lorenz Assignment.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Baudot.cpp LorenzMachine.cpp LorenzWheel.cpp LorenzWheelCollection.cpp main.cpp
+         main.cpp
+         LorenzWheelCollection.cpp
+         LorenzWheel.cpp
+         LorenzMachine.cpp
+         Baudot.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Jager USB 10-03-2016\C++ Dev\Lorenz Assignment\Lorenz Assignment Submission- FINAL\Debug\Lorenz Assignment.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Lorenz Assignment.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Jager USB 10-03-2016\C++ Dev\Lorenz Assignment\Lorenz Assignment Submission- FINAL\Debug\Lorenz Assignment.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Jager USB 10-03-2016\C++ Dev\Lorenz Assignment\Lorenz Assignment Submission- FINAL\Debug\Lorenz Assignment.lib" /MACHINE:X86 Debug\Baudot.obj
+         Debug\LorenzMachine.obj
+         Debug\LorenzWheel.obj
+         Debug\LorenzWheelCollection.obj
+         Debug\main.obj
+         Lorenz Assignment.vcxproj -> G:\Jager USB 10-03-2016\C++ Dev\Lorenz Assignment\Lorenz Assignment Submission- FINAL\Debug\Lorenz Assignment.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"G:\Jager USB 10-03-2016\C++ Dev\Lorenz Assignment\Lorenz Assignment Submission- FINAL\Debug\Lorenz Assignment.exe;#1" /manifest "Debug\Lorenz Assignment.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lorenz Assignment.unsuccessfulbuild".
+         Touching "Debug\Lorenz Assignment.lastbuildstate".
+     1>Done Building Project "G:\Jager USB 10-03-2016\C++ Dev\Lorenz Assignment\Lorenz Assignment Submission- FINAL\Lorenz Assignment\Lorenz Assignment.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.11
